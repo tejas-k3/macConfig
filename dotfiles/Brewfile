@@ -1,0 +1,24 @@
+# Core
+brew "git"
+brew "pyenv"
+brew "pipx"
+brew "tmux"
+brew "starship"
+
+# Python tools
+brew "poetry"
+
+# CLI utilities
+brew "ripgrep"
+brew "fd"
+brew "bat"
+brew "fzf"
+
+# Fonts
+cask "font-jetbrains-mono"
+
+# Apps
+cask "iterm2"
+cask "visual-studio-code"
+cask "raycast"
+cask "rectangle"
