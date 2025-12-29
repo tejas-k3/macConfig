@@ -1,0 +1,16 @@
+[user]
+  name = Tejas Kothari
+  email = tejaskothari03@gmail.com
+
+[core]
+  editor = code --wait
+
+[init]
+  defaultBranch = main
+
+[alias]
+  st = status
+  co = checkout
+  br = branch
+  cm = commit -m
+  lg = log --oneline --graph --decorate --all
