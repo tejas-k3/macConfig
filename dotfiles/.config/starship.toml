@@ -1,0 +1,17 @@
+add_newline = false
+
+[character]
+success_symbol = "➜"
+error_symbol = "➜"
+
+[python]
+symbol = "🐍 "
+format = "via [$symbol$version]($style) "
+
+[git_branch]
+symbol = "🌱 "
+format = "on [$symbol$branch]($style) "
+
+[directory]
+truncation_length = 3
+truncate_to_repo = true
